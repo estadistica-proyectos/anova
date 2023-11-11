@@ -1,4 +1,4 @@
-# Anova: Ánalisis de Varianza.
+# Anova: Análisis de Varianza.
 
 ## Introducción
 - Link: https://github.com/estadistica-proyectos/anova.git
