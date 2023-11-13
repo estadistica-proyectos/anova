@@ -7,7 +7,7 @@
 ## Repositorio
 La carpeta `data` con un archivo *csv* dónde se encuentran los correspondientes datos del ejercicio.
 
-El archivo `main.py` contiene un Jupyter Notebook programado en Python para la resolución de análisis de varianza, ANOVA. A continuación, se proporciona una descripción y las librerías utilizadas en el código:
+El archivo `main.ipynb` contiene un Jupyter Notebook programado en Python para la resolución de análisis de varianza, ANOVA. A continuación, se proporciona una descripción y las librerías utilizadas en el código:
 
 #### **Descripción**
 Resuelve ejercicios relacionados con análisis de varianza utilizando Python. El análisis de varianza es una técnica estadística utilizada para comparar las medias de más de dos muestras. Este código aborda este tipo de análisis y proporciona soluciones utilizando las funciones y métodos de las librerías mencionadas.
